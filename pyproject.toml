@@ -5,11 +5,16 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "keras-preprocessing>=1.1.2",
     "matplotlib>=3.10.8",
     "missingno>=0.5.2",
     "numpy>=2.4.2",
+    "packaging>=26.0",
     "pandas>=3.0.0",
     "requests>=2.32.5",
     "scikit-learn>=1.8.0",
     "seaborn>=0.13.2",
+    "six>=1.17.0",
+    "tensorflow>=2.20.0",
+    "wheel>=0.46.3",
 ]
