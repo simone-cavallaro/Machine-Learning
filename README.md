@@ -5,3 +5,4 @@ This is the folder for the Machine Learning course. We started the course on 02/
 - 4th lab session (Riccardo) (16/02/2026) --> we finished the 2nd lab session file and starting the lab 5 on Classification & Clustering Lab;
 - 5th lab session (Anna) (19/02/2026) --> we created our first neural network on the MNIST dataset;
 - 6th lab session (Anna) (26/02/2026) --> we saw what happens inside the black box (the hidden layers);
+- 7th lab session (Riccardo) (09/03/2026) --> we started the "lab 8-9" file about CNN;
