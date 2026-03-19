@@ -6,4 +6,4 @@ This is the folder for the Machine Learning course. We started the course on 02/
 - 5th lab session (Anna) (19/02/2026) --> we created our first neural network on the MNIST dataset;
 - 6th lab session (Anna) (26/02/2026) --> we saw what happens inside the black box (the hidden layers);
 - 7th lab session (Riccardo) (09/03/2026) --> we started the "lab 8-9" file about CNN;
-- 8th - 9th lab session (18/03 - 19/03/2026) --> we started the "Lab 10" about word embeddings;
+- 8th - 9th lab session (18/03 - 19/03/2026) --> we started and finished the "Lab 10" about word embeddings, and we started the Lab 11 about RNN;
